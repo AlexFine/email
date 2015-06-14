@@ -75,9 +75,9 @@ $headers = 'From: '.$email_from."\r\n".
 <script>
     alert("You've been added! Expect an email inviting you to Pearl within one week");
 </script>
-  <meta http-equiv="refresh" content="0; url=/index.html" />
+  <meta http-equiv="refresh" content="0; url=AND HERE" />
  <script type="text/javascript">
-            window.location.href = "http://pearlapp.org/"
+            window.location.href = "INSERT REDIRECTED URL HERE"
         </script>
  </head>
  
